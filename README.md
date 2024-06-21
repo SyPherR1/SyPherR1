@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @SyPherR1
-- 👀 I’m interested in  Information Technolgy, AI
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Via Linkdin TG9jaGFuYSBEaXNzYW5heWFrZQ== Base64(its easy)
-- 😄 Pronouns: ...mmmh
-- ⚡ Fun fact:  Cyberattacks occur at a frightening frequency—every 39 seconds!  
+# THM Snyk Code   
 
-<!---
-SyPherR1/SyPherR1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In her ongoing mission to improve the security posture of Patch Corp, Jessica is now turning her attention to tackling another critical area: code-level security. With her successful implementation of Snyk Open Source, she has gained the confidence and support of the leadership team to continue enhancing the organisation's security measures. This time, Jessica will be introducing Snyk Code to identify and fix vulnerable patterns directly in the source code.  
+
+With Snyk Code, Jessica aims to shift security left, enabling developers to detect and remediate security issues early in the development lifecycle, reducing the risk of breaches and minimising the cost and effort required to address these issuers in later stage. To ensure a smooth rollout, Jessica plans to adopt a similar approach as before, starting with a pilot program involving a single project and expanding to other projects based on feedback and results.   
+
+As part of the introduction, Jessica will organise training sessions and workshops to help developers understand the benefits of using Snyk Code and provide them with hands-on experience in integrating the tool into their workflow. She will also establish clear communication channels to gather valuable feedback, addressing concerns, and continuously refining the implementation strategy. Jessica believes that they can create a more secure software development environment while maintaining productivity and efficiency!
